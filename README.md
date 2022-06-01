@@ -5,7 +5,7 @@
 [![twitter badge](https://img.shields.io/badge/-@KiviHu-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/KiviHu/)](https://twitter.com/KiviHu)
 
 :panda_face: | This is Kivi.   
-:open_book: | Junior year in BJUT, majoring in the IOT.   
+:open_book: | Junior year in BJUT, majoring in the IoT.   
 
 
 
