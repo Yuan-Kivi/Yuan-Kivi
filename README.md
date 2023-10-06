@@ -5,7 +5,7 @@
 [![twitter badge](https://img.shields.io/badge/-@KiviHu-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/KiviHu/)](https://twitter.com/KiviHu)
 
 :panda_face: | This is Kivi.   
-:open_book: | B.E Beijing University of Technology in Internet of Things
+:open_book: | B.E Beijing University of Technology in Internet of Things <br>
               M.E Dartmouth College in Electrical and Computer Engineering
 
 
